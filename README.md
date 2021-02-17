@@ -15,6 +15,8 @@ The processing provides for the re-colouring of one image using the colours of a
 ![Composite of Flower Image: Inputs and Outputs](Documents/Images/Flowers_composite.jpg?raw=true)
 
 ![Composite of Seaside Image: Inputs and Outputs](Documents/Images/Seaside_composite.jpg?raw=true)
+
+![Composite of Wood Image: Inputs and Outputs](Documents/Images/Wood_composite.jpg?raw=true)
 #  
 *The executable in this repository implements the processing represented by the source code and documentation under the heading ‘Further Enhanced Image-Colour-Transfer’ in the following repository https://github.com/TJCoding/Enhanced-Image-Colour-Transfer#further-enhanced-image-colour-transfer. It has been presented here separately from the source code and technical support details to make it accessible to less experienced users.*
 
