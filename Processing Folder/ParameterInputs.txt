@@ -1,11 +1,11 @@
-640       // p1=The extent of the larger dimension in the output image.                                                                    		[640]
-0.5        // p2=1.0 for full cross covariance processing,  0.0 for independent channel processing,  intermediate otherwise.		[default 0.5]
-1.0        // p3=Number of reshaping iterations.                                                                                                    		[default 1.0]
--1.0       // p4=Percent saturation shift (or -1 for automatic selection of a suitable value).                                          		[default -1.0]
-50.0      // p5=Percent shading shift.                                                                                                                 		[default 50.0]
-1.0        // p6=1.0 for additional shading processing =0.0 otherwise.                                                                        		[default 1.0]
-100.0    // p5=100.0 for full colour image, 0.0 for grayscale image, otherwise intermediate Tint.                                                     [default 100.0]
-100.0    // p8=Percent of colour modification change arising from processing.	                                                             		[default 100.0]
+640    // p1=The extent of the larger dimension in the output image.                                                         [640]
+0.5    // p2=1.0 for full cross covariance processing,  0.0 for independent channel processing,  intermediate otherwise.     [default 0.5]
+1.0    // p3=Number of reshaping iterations.                                                                                 [default 1.0]
+-1.0   // p4=Percent saturation shift (or -1 for automatic selection of a suitable value).                                   [default -1.0]
+50.0   // p5=Percent shading shift.                                                                                          [default 50.0]
+1.0    // p6=1.0 for additional shading processing =0.0 otherwise.                                                           [default 1.0]
+100.0  // p5=100.0 for full colour image, 0.0 for grayscale image, otherwise intermediate Tint.                              [default 100.0]
+100.0  // p8=Percent of colour modification change arising from processing.	                                             [default 100.0]
 //  *******************************************************************************************************************
 //  *                                                                                                                                                      
 //  *    THIS FILE IS USED TO SPECIFY THE VALUES FOR PROCESSING OPTIONS P1 TO P8.                    
