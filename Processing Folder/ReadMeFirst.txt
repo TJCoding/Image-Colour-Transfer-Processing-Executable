@@ -2,7 +2,7 @@
 INSTRUCTIONS
 ===========
 
-Click the file "TJColourTransfer2.exe", (but first read the first paragraph of IMPORTANT NOTES below).
+Click the file "TJColourTransfer3.exe", (but first read the first paragraph of IMPORTANT NOTES below).
 
 An on-screen display will be generated and the file "processed.jpg'" will contain the processed image as derived from the images in "target.jpg" and "palette.jpg".
 
@@ -19,7 +19,7 @@ Further details of processing options can be found in the file "ParameterInputs.
 IMPORTANT NOTES
 ==============
 
-When you first click "TJColourTransfer2.exe", you may get a message "Windows protected your PC". To overcome this, click "More info" and then "Run anyway".
+When you first click "TJColourTransfer3.exe", you may get a message "Windows protected your PC". To overcome this, click "More info" and then "Run anyway".
 There is no issue here.  Microsoft is being over cautious for software which does not originate from a commercially certified software company. 
 
 The facility to read in files makes use of third party public domain software.  Unfortunately it does have one minor quirk.
